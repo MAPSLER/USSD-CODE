@@ -3,6 +3,8 @@ USSD CODE
 
 Телефонные коды Vodafone
 
+https://www.vodafone.ua/ru/support/ussd-code
+
 ПОПУЛЯРНЫЕ
 Подключить пакет услуг на месяц
 *101*444# 
